@@ -1,5 +1,8 @@
 <h1>Projeto pokedevs</h1>
 
+
+<img width="200px" src="./src/imagens/devchu.png" alt="Devchu" />
+
 <h2>�� Sobre</h2>
 <p>Projeto de cartas feito junto com os irmãos do canal Dev em Dobro na semana do zero ao programador contratado. 
 <p>O objetivo, é mostrar um layout com espécies de pokemons e suas habilidades na programação.</p>  
